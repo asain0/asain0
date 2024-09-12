@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Programador em desenvolvimento
 - 🌱 Estudando HTML, CSS, JS, NodeJS, SQL
-Peril em construção
+Perfil em construção
 
 
 <div align="center">
